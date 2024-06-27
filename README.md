@@ -1,4 +1,7 @@
 # CONTEUDOS-HTML-CSS-Responsividade
+Resumo de conteudo proveniente de cursos realizados na área de Front End nas seguintes comunidades:
+
+Reprograma
 
 
 ## INDICE
