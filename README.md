@@ -1,7 +1,8 @@
 # CONTEUDOS-HTML-CSS-Responsividade
 Resumo de conteudo proveniente de cursos realizados na área de Front End nas seguintes comunidades:
 
-Reprograma
+![image](https://github.com/FlavianaFXT/CONTEUDOS-HTML-CSS-Responsividade/assets/113718720/0c1f0385-ea3a-4a70-b44b-6c3fbee7853c)
+
 
 
 ## INDICE
